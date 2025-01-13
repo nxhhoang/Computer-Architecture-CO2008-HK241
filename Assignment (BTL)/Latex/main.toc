@@ -1,0 +1,27 @@
+\thispagestyle {empty}
+\thispagestyle {empty}
+\contentsline {section}{\numberline {}Giới thiệu}{1}{section*.2}%
+\contentsline {subsection}{\numberline {1}Giới thiệu về tích chập (Convolution Operation)}{1}{subsection.3}%
+\contentsline {subsection}{\numberline {2}Tầm quan trọng của tích chập trong xử lý ảnh}{1}{subsection.4}%
+\contentsline {subsection}{\numberline {3}Mục tiêu của báo cáo}{1}{subsection.5}%
+\contentsline {section}{\numberline {}Phép toán Tích chập}{2}{subsection.5}%
+\contentsline {subsection}{\numberline {1}Một số khái niệm liên quan}{2}{subsection.6}%
+\contentsline {subsection}{\numberline {2}Nguyên lý của phép toán tích chập}{2}{subsection.7}%
+\contentsline {subsection}{\numberline {3}Các ứng dụng điển hình của tích chập}{3}{subsection.12}%
+\contentsline {section}{\numberline {}Phân tích và cài đặt mã}{4}{subsection.12}%
+\contentsline {subsection}{\numberline {1}Sơ lược về mã nguồn}{4}{subsection.13}%
+\contentsline {subsection}{\numberline {2}Xử lý đầu vào}{4}{subsection.17}%
+\contentsline {subsection}{\numberline {3}Padding ma trận và tích chập}{6}{subsection.30}%
+\contentsline {subsection}{\numberline {4}Xử lý đầu ra}{8}{subsection.43}%
+\contentsline {subsection}{\numberline {5}Diễn giải thuật toán bằng flowchart}{9}{subsection.47}%
+\contentsline {section}{\numberline {}Kiểm thử và đánh giá hiệu suất}{10}{figure.caption.48}%
+\contentsline {subsection}{\numberline {1}Kiểm thử}{10}{subsection.49}%
+\contentsline {subsubsection}{\numberline {1.1}Testcase 1}{10}{subsubsection.50}%
+\contentsline {subsubsection}{\numberline {1.2}Testcase 2}{10}{subsubsection.59}%
+\contentsline {subsubsection}{\numberline {1.3}Testcase 3}{10}{subsubsection.68}%
+\contentsline {subsubsection}{\numberline {1.4}Testcase 4}{10}{subsubsection.77}%
+\contentsline {subsubsection}{\numberline {1.5}Testcase 5}{10}{subsubsection.86}%
+\contentsline {subsection}{\numberline {2}Đánh giá}{11}{subsection.95}%
+\contentsline {subsubsection}{\numberline {2.1}Ưu điểm của MIPS trong phép tích chập}{11}{subsubsection.96}%
+\contentsline {subsubsection}{\numberline {2.2}Nhược điểm của MIPS trong phép tích chập}{11}{subsubsection.97}%
+\contentsline {section}{\numberline {}Kết luận}{12}{subsubsection.97}%

@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{nguyen2020travelling}
+Q.~N. Nguyen, ``Travelling salesman problem and bellman-held-karp algorithm,''
+  2020.
+
+\bibitem{mattsson2010asymmetric}
+P.~Mattsson, ``The asymmetric traveling salesman problem,'' 2010.
+
+\bibitem{kimura2019accelerating}
+K.~Kimura, S.~Higa, M.~Okita, and F.~Ino, ``Accelerating the held-karp
+  algorithm for the symmetric traveling salesman problem,'' {\em IEICE
+  TRANSACTIONS on Information and Systems}, vol.~102, no.~12, pp.~2329--2340,
+  2019.
+
+\end{thebibliography}
