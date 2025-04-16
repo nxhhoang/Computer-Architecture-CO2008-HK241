@@ -2,7 +2,7 @@
 prompt_circle: .asciiz "Number of points within the circle: "
 POINTS: .asciiz "/50000\n"
 prompt_pi: .asciiz "Calculated PI number: "
-file_name: .asciiz "C:\\Users\\ASUS\\Documents\\MIPS\\PI.txt"
+file_name: .asciiz "PI.txt"
 count_circle: .word 0
 count_total: .word 50000
 four: .float 4.0
